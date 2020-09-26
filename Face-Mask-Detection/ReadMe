@@ -1,2 +1,7 @@
 #dataset folder is missing
-#please download it from my drive link
+#please download it from kaggle   https://www.kaggle.com/sumansid/facemask-dataset
+#Create folder dataset
+#In that folder create 2 more folders as "with_mask" & "without_mask"
+#store images accordingly 
+#install dependencies as in requirment.txt
+#you are ready to go
